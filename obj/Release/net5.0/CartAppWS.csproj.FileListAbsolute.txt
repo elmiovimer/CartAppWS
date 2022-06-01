@@ -1,0 +1,408 @@
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\appsettings.Development.json
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\appsettings.json
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.exe
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.deps.json
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.runtimeconfig.json
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.runtimeconfig.dev.json
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\ref\CartAppWS.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.pdb
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Data.SqlClient.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csprojAssemblyReference.cache
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.AssemblyInfoInputs.cache
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.AssemblyInfo.cs
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csproj.CoreCompileInputs.cache
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\staticwebassets\CartAppWS.StaticWebAssets.Manifest.cache
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\staticwebassets\CartAppWS.StaticWebAssets.xml
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\scopedcss\bundle\CartAppWS.styles.css
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.RazorTargetAssemblyInfo.cache
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csproj.CopyComplete
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\ref\CartAppWS.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.pdb
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.genruntimeconfig.cache
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\appsettings.Development.json
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\appsettings.json
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.exe
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.deps.json
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.runtimeconfig.json
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.runtimeconfig.dev.json
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\ref\CartAppWS.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.pdb
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\System.Data.SqlClient.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csprojAssemblyReference.cache
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.AssemblyInfoInputs.cache
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.AssemblyInfo.cs
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csproj.CoreCompileInputs.cache
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\obj\Release\net5.0\staticwebassets\CartAppWS.StaticWebAssets.Manifest.cache
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\obj\Release\net5.0\staticwebassets\CartAppWS.StaticWebAssets.xml
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\obj\Release\net5.0\scopedcss\bundle\CartAppWS.styles.css
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.RazorTargetAssemblyInfo.cache
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csproj.CopyComplete
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\obj\Release\net5.0\ref\CartAppWS.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.pdb
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.genruntimeconfig.cache
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\IO.ClickSend.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\JsonSubTypes.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\NuGet.Frameworks.dll
+C:\Users\vimer\Google Drive\proyectos\Tierra Colombiana\CartAppWS (1)\CartAppWS\CartAppWS\bin\Release\net5.0\RestSharp.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\appsettings.Development.json
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\appsettings.json
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.exe
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.deps.json
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.runtimeconfig.json
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.runtimeconfig.dev.json
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\ref\CartAppWS.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.pdb
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\AuthorizeNet.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\IO.ClickSend.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\JsonSubTypes.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\NuGet.Frameworks.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\RestSharp.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Data.SqlClient.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Drawing.Common.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.AccessControl.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.Permissions.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.Principal.Windows.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Windows.Extensions.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csprojAssemblyReference.cache
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.AssemblyInfoInputs.cache
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.AssemblyInfo.cs
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csproj.CoreCompileInputs.cache
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\staticwebassets\CartAppWS.StaticWebAssets.Manifest.cache
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\staticwebassets\CartAppWS.StaticWebAssets.xml
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\scopedcss\bundle\CartAppWS.styles.css
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.RazorTargetAssemblyInfo.cache
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csproj.CopyComplete
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\ref\CartAppWS.dll
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.pdb
+C:\Users\vimer\Documents\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.genruntimeconfig.cache
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\appsettings.Development.json
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\appsettings.json
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.exe
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.deps.json
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.runtimeconfig.json
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.runtimeconfig.dev.json
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\ref\CartAppWS.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.pdb
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\AuthorizeNet.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\IO.ClickSend.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\JsonSubTypes.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\NuGet.Frameworks.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\RestSharp.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Data.SqlClient.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Drawing.Common.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.AccessControl.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.Permissions.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.Principal.Windows.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Windows.Extensions.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.AssemblyInfoInputs.cache
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.AssemblyInfo.cs
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csproj.CoreCompileInputs.cache
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\staticwebassets\CartAppWS.StaticWebAssets.Manifest.cache
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\staticwebassets\CartAppWS.StaticWebAssets.xml
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\scopedcss\bundle\CartAppWS.styles.css
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.RazorTargetAssemblyInfo.cache
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csproj.CopyComplete
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\ref\CartAppWS.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.pdb
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.genruntimeconfig.cache
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\appsettings.Development.json
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\appsettings.json
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.exe
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.deps.json
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.runtimeconfig.json
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.runtimeconfig.dev.json
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\ref\CartAppWS.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.pdb
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\AuthorizeNet.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\IO.ClickSend.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\JsonSubTypes.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Web.Cors.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Net.Http.Formatting.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Web.Http.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Web.Http.Cors.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\NuGet.Frameworks.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\RestSharp.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Data.SqlClient.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Drawing.Common.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.AccessControl.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.Permissions.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.Principal.Windows.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Windows.Extensions.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csprojAssemblyReference.cache
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.AssemblyInfoInputs.cache
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.AssemblyInfo.cs
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csproj.CoreCompileInputs.cache
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\staticwebassets\CartAppWS.StaticWebAssets.Manifest.cache
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\staticwebassets\CartAppWS.StaticWebAssets.xml
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\scopedcss\bundle\CartAppWS.styles.css
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.RazorTargetAssemblyInfo.cache
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csproj.CopyComplete
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\ref\CartAppWS.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.pdb
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.genruntimeconfig.cache
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csproj.AssemblyReference.cache
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Web.Cors.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Net.Http.Formatting.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Web.Http.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\System.Web.Http.Cors.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\CartAppWS\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\appsettings.Development.json
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\appsettings.json
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.exe
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.deps.json
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.runtimeconfig.json
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.runtimeconfig.dev.json
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\ref\CartAppWS.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.pdb
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\AuthorizeNet.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\IO.ClickSend.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\JsonSubTypes.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\System.Web.Cors.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\System.Net.Http.Formatting.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\System.Web.Http.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\System.Web.Http.Cors.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\NuGet.Frameworks.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\RestSharp.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\System.Data.SqlClient.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\System.Drawing.Common.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.AccessControl.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.Permissions.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.Principal.Windows.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\System.Windows.Extensions.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csproj.AssemblyReference.cache
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.AssemblyInfoInputs.cache
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.AssemblyInfo.cs
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csproj.CoreCompileInputs.cache
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\obj\Release\net5.0\staticwebassets\CartAppWS.StaticWebAssets.Manifest.cache
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\obj\Release\net5.0\staticwebassets\CartAppWS.StaticWebAssets.xml
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\obj\Release\net5.0\scopedcss\bundle\CartAppWS.styles.css
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.RazorTargetAssemblyInfo.cache
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csproj.CopyComplete
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\obj\Release\net5.0\ref\CartAppWS.dll
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.pdb
+C:\Users\vimer\Documents\Visual Studio Projects\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.genruntimeconfig.cache
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\appsettings.Development.json
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\appsettings.json
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.exe
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.deps.json
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.runtimeconfig.json
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.runtimeconfig.dev.json
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\ref\CartAppWS.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\CartAppWS.pdb
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\AuthorizeNet.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\IO.ClickSend.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\JsonSubTypes.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\System.Web.Cors.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\System.Net.Http.Formatting.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\System.Web.Http.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\System.Web.Http.Cors.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\NuGet.Frameworks.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\RestSharp.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\System.Data.SqlClient.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\System.Drawing.Common.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.AccessControl.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.Permissions.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\System.Security.Principal.Windows.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\System.Windows.Extensions.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.AssemblyInfoInputs.cache
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.AssemblyInfo.cs
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csproj.CoreCompileInputs.cache
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\obj\Release\net5.0\staticwebassets\CartAppWS.StaticWebAssets.Manifest.cache
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\obj\Release\net5.0\staticwebassets\CartAppWS.StaticWebAssets.xml
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\obj\Release\net5.0\scopedcss\bundle\CartAppWS.styles.css
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.RazorTargetAssemblyInfo.cache
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csproj.CopyComplete
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\obj\Release\net5.0\ref\CartAppWS.dll
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.pdb
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.genruntimeconfig.cache
+C:\Users\Gregory\Documents\App Pedidos\CartAppWS\CartAppWS\obj\Release\net5.0\CartAppWS.csproj.AssemblyReference.cache
