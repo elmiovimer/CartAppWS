@@ -202,7 +202,8 @@ namespace CartAppWS.Controllers
                             SMS.SendSMS(company.SMSUser, company.SMSPassword, company.SMSPhone, client.Phone, company.WSLink + validation.GetLink());
                             break;
                         case (int)Constants.ValidationType.EMAIL:
-                            Mail.SendMail(company.Email, client.Email, "Validation - Tierra Colombiana", company.WSLink + validation.GetLink(), company.SMTPServer, company.EmailPassword, company.SMTPPort, company.StartTLS.ToUpper().Equals("TRUE"));
+                            //Mail.SendMail(company.Email, client.Email, "Validation - Tierra Colombiana", "<html><body><" company.WSLink + validation.GetLink(), company.SMTPServer, company.EmailPassword, company.SMTPPort, company.StartTLS.ToUpper().Equals("TRUE"));
+                            Mail.SendMail(company.Email, client.Email, "<html><body>Validation - Tierra Colombiana", "<a href='" + company.WSLink + validation.GetLink() + "'>Clic aquí para activar</a></body></html>", company.SMTPServer, company.EmailPassword, company.SMTPPort, company.StartTLS.ToUpper().Equals("TRUE"));
                             break;
                     }
                 }
@@ -257,13 +258,19 @@ namespace CartAppWS.Controllers
 
         private string ResetPasswordMessage(string name, string password, string img)
         {
-
-            return $"<img style='margin: auto; width: 100%; height: auto; display: block; max-width: 400px;' src='{img}'>" +
+            String var = $"<html><head></head><body><img style='margin: auto; width: 100%; height: auto; display: block; max-width: 400px;' src='{img.Trim()}'>" +
                 $"<h2 style = 'color: #BD9B60; text-align:center;'> Hi {name},</h2>" +
                 "<div style = 'margin: auto; max-width: 400px;'> <p style = 'color:#3F2021; text-align: center;font-size: x-large;'>" +
                 "We're sending you this email because you requested a password reset.</p>" +
                 $"<p style = 'color:#3F2021; text-align: center;font-size: x-large;'> We have asigned to you a temporary password: <strong>{password}</strong>.</p>" +
-                $"<p style='color:#3F2021; text-align: center;font-size: x-large;'> Please login to your account and set up a new password.</p></div>";
+                $"<p style='color:#3F2021; text-align: center;font-size: x-large;'> Please login to your account and set up a new password.</p></div></body></html>";
+            Console.WriteLine(var);
+            return $"<html><head></head><body> \n<img style='margin: auto; width: 100%; height: auto; display: block; max-width: 400px;' src='http://tierracolombiana-001-site2.itempurl.com/splash.png'>" +
+                $"\n <h2 style = 'color: #BD9B60; text-align:center;'> Hi {name},</h2>" +
+                "\n <div style = 'margin: auto; max-width: 400px;'> <p style = 'color:#3F2021; text-align: center;font-size: x-large;'>" +
+                "\n We're sending you this email because you requested a password reset.</p>" +
+                $"\n <p style = 'color:#3F2021; text-align: center;font-size: x-large;'> We have asigned to you a temporary password: <strong>{password}</strong>.</p>" +
+                $"\n <p style='color:#3F2021; text-align: center;font-size: x-large;'> Please login to your account and set up a new password.</p></div></body></html>";
         }
 
         private string ResetPasswordSMS(string password, string companyname)

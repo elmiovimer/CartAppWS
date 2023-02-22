@@ -9,8 +9,17 @@ namespace CartAppWS.Utilities
 {
     public class Mail
     {
-        public static bool SendMail(string from, string to, string subject, string body, string host, string pwd, int port, bool tsl)
+        public static bool SendMail(
+            string from, 
+            string to, 
+            string subject, 
+            string body, 
+            string host, 
+            string pwd, 
+            int port, 
+            bool tsl)
         {
+           
             MailMessage email = new();
             email.To.Add(to);
             email.From = new MailAddress(from);
